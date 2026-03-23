@@ -11,19 +11,7 @@
 
 🔹 Create data-driven dashboards & analytics systems
 
-🔹 Design futuristic web apps & user interfaces
-
 🔹 Work on automation, cloud integration & real-time systems
-
-# ⚡ Current Focus
-
-🚀 AI-powered applications & intelligent systems
-
-📊 Advanced Data Analysis & Visualization
-
-🌐 Full-stack development with AI integration
-
-🤖 Voice assistants & automation systems
 
 
 ## 🌐 Socials:

@@ -62,16 +62,16 @@
         <table style="width: auto; margin: 0 auto;">
           <tr>
             <td align="center">
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abirbhab2k&theme=radical" width="220" />
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abirbhab2k&theme=radical" width="200" />
             </td>
             <td align="center">
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abirbhab2k&theme=radical" width="220" />
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abirbhab2k&theme=radical" width="200" />
             </td>
             <td align="center">
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abirbhab2k&theme=radical" width="220" />
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abirbhab2k&theme=radical" width="200" />
             </td>
             <td align="center">
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abirbhab2k&theme=radical&utcOffset=8" width="220" />
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abirbhab2k&theme=radical&utcOffset=8" width="200" />
             </td>
           </tr>
         </table>
@@ -98,8 +98,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abirbhab2k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

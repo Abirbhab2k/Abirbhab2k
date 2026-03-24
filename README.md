@@ -44,9 +44,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abirbhab2k&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF4D4D&area=true&hide_border=true&radius=8" width="100%" />
 
-### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abirbhab2k&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=0D1117" width="100%" />
 
 ### 📊 Contribution Metrics
 

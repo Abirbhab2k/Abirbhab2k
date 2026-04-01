@@ -22,25 +22,16 @@
 
 # 📊 GitHub Stats:
 
-### 🚀 GitHub Analytics 
-
+### 🚀 GitHub Analytics
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abirbhab2k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&include_all_commits=true&count_private=true&ring_color=00F5FF&fire_color=FF4D4D&side_nums=00F5FF&cache_seconds=1800" width="100%" />
-      <br>
-      <sub>⏱️ Updates every 30 minutes</sub>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abirbhab2k&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=888888&cache_seconds=1800" width="100%" />
+       <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Abirbhab2k&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=888888" width="100%" />
       <br>
       <sub>⏱️ Updates every 30 minutes</sub>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abirbhab2k&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&layout=compact&langs_count=8&card_width=800&cache_seconds=1800" width="100%" />
       <br>
       <sub>⏱️ Updates every 30 minutes</sub>
     </td>
